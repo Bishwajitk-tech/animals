@@ -3,3 +3,5 @@ indigo
 blue
 green
 yellow
+orangish or orange
+reddish or red
